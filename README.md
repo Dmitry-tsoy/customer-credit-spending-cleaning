@@ -1,2 +1,26 @@
-# customer-credit-spending-cleaning
-Data cleaning project using Python and Pandas: fixing invalid values, standardizing formats, handling missing data.
+# Customer Credit & Spending — Data Cleaning
+
+## О проекте
+
+Проект по очистке данных, связанных с кредитами, расходами и пользовательскими характеристиками.
+
+Цель — привести датасет к аккуратному и пригодному для анализа виду.
+
+## Что было сделано
+
+- проверены пропуски и дубликаты;
+- исправлены ошибки и опечатки значениях;
+- стандартизированы телефонные номера, email и ZIP-коды;
+- данные приведены к подходящим типам;
+- значения, которые нельзя было восстановить надёжно, заменены на `NA`.
+
+## Итог
+
+После очистки готов для дальнейшего анализа.
+
+## Инструменты
+
+- Python
+- Pandas
+- Regular Expressions
+- Jupyter Notebook
